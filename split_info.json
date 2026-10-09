@@ -1,0 +1,18 @@
+{
+  "train_speakers": [
+    "george",
+    "jackson",
+    "lucas",
+    "nicolas"
+  ],
+  "validation_speakers": [
+    "theo"
+  ],
+  "test_speakers": [
+    "yweweler"
+  ],
+  "train_samples": 2000,
+  "validation_samples": 500,
+  "test_samples": 500,
+  "seed": 42
+}
